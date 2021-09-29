@@ -16,7 +16,7 @@ In this project I created a simple to-do-list using JavaScript, and webpack.
 
 
 ## Live Demo
-- [Live Demo Link](https://lilyfrancis.github.io/To-Do-list/)
+- [Live Demo Link](https://raw.githack.com/lilyfrancis/To-Do-List/feature/dist/index.html)
 
 ## Getting started
 To get a local copy of this project, follow these simple steps
