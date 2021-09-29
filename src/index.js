@@ -2,17 +2,17 @@
 import './style.css';
 
 const arrayList = [{
-  description: `Wake up and say morning paryers`,
+  description: 'Wake up and say morning paryers',
   completed: false,
   index: 4,
 },
 {
-  description: `Shower and dress up for work`,
+  description: 'Shower and dress up for work',
   completed: false,
   index: 5,
 },
 {
-  description: `Check my mails in the office`,
+  description: 'Check my mails in the office',
   completed: false,
   index: 9,
 },
