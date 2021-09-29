@@ -6,19 +6,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack serve --open",
-    "build": "webpack"
+    "build": "webpack --config webpack.config.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OLIPLICHE/To-Do-list.git"
+    "url": "git+https://github.com/lilyfrancis/To-Do-list.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/OLIPLICHE/To-Do-list/issues"
+    "url": "https://github.com/lilyfrancis/To-Do-list/issues"
   },
-  "homepage": "https://github.com/OLIPLICHE/To-Do-list#readme",
+  "homepage": "https://github.com/lilyfrancis/To-Do-list#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.2.0",
@@ -34,7 +34,7 @@
     "stylelint-scss": "^3.21.0",
     "webpack": "^5.51.1",
     "webpack-cli": "^4.8.0",
-    "webpack-dev-server": "^4.0.0"
+    "webpack-dev-server": "^4.3.0"
   },
   "dependencies": {
     "lodash": "^4.17.21"

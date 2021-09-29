@@ -1,7 +1,7 @@
 /* eslint-disable no-plusplus */
 /* eslint-disable quotes */
 /* eslint-disable no-unused-vars */
-import _ from 'lodash';
+/*import _ from 'lodash';*/
 import './style.css';
 
 const arrayList = [{
@@ -15,7 +15,7 @@ const arrayList = [{
   index: 5,
 },
 {
-  description: `Check my mails in the office and respond`,
+  description: `Check my mails in the office`,
   completed: false,
   index: 9,
 },
