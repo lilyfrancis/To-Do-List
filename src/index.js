@@ -23,7 +23,7 @@ const listContent = document.getElementById('list');
 
 const showTasList = () => {
   listContent.innerHTML = '';
-  for (let i = 0; i < arrayList.length; i+=1) {
+  for (let i = 0; i < arrayList.length; i += 1) {
     const rules = arrayList[i];
     const listOfTask = `<li class="item">
     <i class="far fa-square co" job="complete" id="${rules.index}"></i>
