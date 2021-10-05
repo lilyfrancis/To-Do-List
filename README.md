@@ -16,7 +16,7 @@ In this project I created a simple to-do-list using JavaScript, and webpack.
 
 
 ## Live Demo
-- [Live Demo Link](https://raw.githack.com/lilyfrancis/To-Do-List/add-and-remove/dist/index.html)
+- [Live Demo Link](https://www.lilianfrancis.com/To-Do-List/dist/)
 
 ## Getting started
 To get a local copy of this project, follow these simple steps
